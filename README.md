@@ -39,11 +39,15 @@ This is really just a dump of useful tidibts and libraries I've come across as I
 
 
 ---
-### Immutable
+## Immutable
 * Redux requires that the store be immutable
 * Use the Immutable Library ( https://facebook.github.io/immutable-js/ )
 * A good video on the benefits immutablilty : [Immutability, Interactivity & Javascript](https://www.youtube.com/watch?v=mS264h8KGwk)
  * by David Nolen (Cognitect) Interesting [Datomic](http://cognitect.com/datomic) time data engine
+
+### Tutorials
+* Youtube Video: [Immutable Javascript: You can't change this](https://www.youtube.com/watch?v=wA98Coal4jk)
+* Lee Byron's [Using Immutable.js with React](https://www.youtube.com/watch?v=YFP8lbdZ0cs)
 
 ---
 ## WebPack
